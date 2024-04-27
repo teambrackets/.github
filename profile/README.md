@@ -7,9 +7,9 @@
 We are a group of 3 friends, <a href="https://github.com/tomartanish">Tanish Tomar</a>, <a href="https://github.com/khushalgoel">Khushal Goel</a>, and  <a href="https://github.com/yadavsidhant">Sidhant Yadav</a>, that are very passionate <br> about coding and tech stacks. This curiousity led us to the creation of our organisation, "Team Brackets".
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"/>
 
-- 🌱 We're currently focusing on **Data Sciences & Web Designing**.
+- 🌱 We're currently focusing on **Artificial Intelligence, Data Sciences & Web Designing**.
 - 💬 We're looking forward to collaborate on some cool projects.
-- ⚡ Feel free to reach us out.
+- ⚡ Feel free to reach us out via email.
 - 😄 Show some ❤ by giving some ⭐'s to our repositories.
 
 <br>
