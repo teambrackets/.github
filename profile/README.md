@@ -4,7 +4,7 @@
 
 -------------------
 
-We are a group of 3 friends, <a href="https://github.com/tomartanish">Tanish Tomar</a>, <a href="https://github.com/khushalgoel">Khushal Goel</a>, <a href="https://github.com/yadavsidhant">Sidhant Yadav</a>, and <a href="https://github.com/himalgarg">Himal Garg</a> that are very passionate <br> about coding and tech stacks. This curiousity led us to the creation of our organisation, "Team Brackets".
+We are a group of 4 friends, <a href="https://github.com/tomartanish">Tanish Tomar</a>, <a href="https://github.com/khushalgoel">Khushal Goel</a>, <a href="https://github.com/yadavsidhant">Sidhant Yadav</a>, and <a href="https://github.com/himalgarg">Himal Garg</a> that are very passionate <br> about coding and tech stacks. This curiousity led us to the creation of our organisation, "Team Brackets".
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"/>
 
 - 🌱 We're currently focusing on **Artificial Intelligence, Data Sciences & Web Designing**.
